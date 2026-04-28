@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 Final year B.Tech (IT) student at **NIET, Greater Noida**
-- 🧩 Solved **300+ DSA problems** on LeetCode in Java
+- 🧩 Solved **450+ DSA problems** on LeetCode in Java
 - 💻 Built full-stack projects using **React, Node.js, MongoDB, MySQL**
 - 🤖 Working on **AI/ML** — Fraud Detection using XGBoost & FastAPI
 - 🏆 Qualified **Smart India Hackathon (SIH) 2025**
