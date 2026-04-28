@@ -1,5 +1,5 @@
 # Hello, I'm Anushka Jha! 👋
-### IT Student | Full-Stack Developer | ML Enthusiast | 300+ DSA Problems Solved
+### IT Student | Full-Stack Developer | ML Enthusiast | 
 
 ---
 
