@@ -18,7 +18,7 @@
 
 | Project | Description | Tech Stack | Repo |
 |---|---|---|---|
-| 🔍 Payment Fraud Detection | Real-time fraud detection on 284K transactions, 95%+ recall, <200ms inference | Python, XGBoost, FastAPI, React | GitHub |
+| 🔍 Payment Fraud Detection |Currently working on Real-time fraud detection on 284K transactions, 95%+ recall, <200ms inference | Python, XGBoost, FastAPI, React | GitHub |
 | 🍕 Food Delivery App | MERN stack app with cart, orders, auth, 1000+ API requests/day | React, Node.js, MongoDB | GitHub |
 | 🏥 Apointix | Doctor appointment system with role-based access for patients, doctors, admins | React, Node.js, MySQL | GitHub |
 | 🎗️ Breast Cancer Detection | ML model using Logistic Regression with real-time prediction interface | Python, Scikit-learn | GitHub |
