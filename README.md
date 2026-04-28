@@ -1,40 +1,89 @@
-<h1 align="center">Hi 👋, I'm Anushka Jha</h1>
-<h3 align="center">A final year B.Tech student and aspiring full stack developer from India</h3>
-<img width="1600" height="1200" alt="image" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" />
+# Hello, I'm Anushka Jha! 👋
+### IT Student | Full-Stack Developer | ML Enthusiast | 300+ DSA Problems Solved
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkajha567&label=Profile%20views&color=0e75b6&style=flat" alt="anushkajha567" /> </p>
+---
 
-<p align="left">
-  <a href="https://x.com/AnushkaJ849" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/AnushkaJ849?logo=twitter&style=for-the-badge" alt="Follow @AnushkaJ849 on Twitter" />
-  </a>
-</p>
+## 👩‍💻 About Me
+- 🎓 Final year B.Tech (IT) student at **NIET, Greater Noida**
+- 🧩 Solved **300+ DSA problems** on LeetCode in Java
+- 💻 Built full-stack projects using **React, Node.js, MongoDB, MySQL**
+- 🤖 Working on **AI/ML** — Fraud Detection using XGBoost & FastAPI
+- 🏆 Qualified **Smart India Hackathon (SIH) 2025**
+- ⭐ **5-Star Java** rating on HackerRank
+- 📊 Bronze League on CodeChef (1071 rating, 290+ problems)
 
-- 🌱 I’m currently learning **React,Node Js,Express Js,Flutter**
+---
 
-- 💬 Ask me about **react**
+## 💼 Projects
 
-- 📫 How to reach me **anushkajha567@gmail.com**
+| Project | Description | Tech Stack | Repo |
+|---|---|---|---|
+| 🔍 Payment Fraud Detection | Real-time fraud detection on 284K transactions, 95%+ recall, <200ms inference | Python, XGBoost, FastAPI, React | GitHub |
+| 🍕 Food Delivery App | MERN stack app with cart, orders, auth, 1000+ API requests/day | React, Node.js, MongoDB | GitHub |
+| 🏥 Apointix | Doctor appointment system with role-based access for patients, doctors, admins | React, Node.js, MySQL | GitHub |
+| 🎗️ Breast Cancer Detection | ML model using Logistic Regression with real-time prediction interface | Python, Scikit-learn | GitHub |
 
-- 📄 Know about my experiences [file:///Users/anushkajha/Downloads/Anushkajha_Resume%20(2).pdf](file:///Users/anushkajha/Downloads/Anushkajha_Resume%20(2).pdf)
+---
 
-- ⚡ Fun fact **I think I am funny 😄**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/anushkaj849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/anushkaj849" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anushka-jha-650b55235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushka-jha-650b55235/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/anushkajha567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anushkajha567" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anushkajha567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anushkajha567" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anushkajha567/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anushkajha567/" height="30" width="40" /></a>
-</p>
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Frameworks:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkajha567&show_icons=true&locale=en&layout=compact" alt="anushkajha567" /></p>
+**Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkajha567&show_icons=true&locale=en" alt="anushkajha567" /></p>
+**Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkajha567&" alt="anushkajha567" /></p>
+---
 
+## 📚 Education
+
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.Tech - IT | NIET, Greater Noida | CGPA: 7.09 | 2022–2026 |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Qualified **Smart India Hackathon (SIH) 2025**
+- 💻 **300+ LeetCode** problems solved in Java
+- ⭐ **5-Star Java** on HackerRank
+- 🥉 **CodeChef Bronze League** — 1071 rating, 290+ problems
+
+---
+
+## 📄 Certifications
+
+**Coursera:**
+- Python Basics
+- Python for Data Science, AI & Development
+- Object-Oriented Programming in Java
+
+**Infosys Springboard:**
+- Database Management System
+- Introduction to Java
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/anushkajha567)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](your-leetcode-url)
+
+---
+
+⭐ *"Building real solutions for real problems"*
